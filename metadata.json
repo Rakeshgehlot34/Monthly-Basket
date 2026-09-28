@@ -1,0 +1,6 @@
+{
+  "name": "SpendSync - Sheets Finance & Procurement",
+  "description": "Smart monthly expense and income tracker backed by your Google Spreadsheet with dynamic unit-priced daily procurement sections, real-time analytics, and role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
